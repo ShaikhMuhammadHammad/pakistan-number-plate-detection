@@ -1,0 +1,6 @@
+train: D:/Object Detection/images/train
+val: D:/Object Detection/images/train
+
+#class
+names:
+  0: number_plate
